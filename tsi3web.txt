@@ -1,1 +1,1 @@
-"test" math grc https://www.orimi.com/pdf-test.pdf
+"test" ex math https://www.orimi.com/pdf-test.pdf
