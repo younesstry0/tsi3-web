@@ -1,2 +1,1 @@
-"test" ex math https://www.orimi.com/pdf-test.pdf
-"matrices" ex math http://exo7.emath.fr/cours/ch_matrices.pdf
+"Développements limités res" math les https://drive.google.com/uc?export=download&id=1bfEyeaLHIMXi7JKbKt9fu-h6R604CtNa
