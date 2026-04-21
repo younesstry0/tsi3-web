@@ -1,4 +1,5 @@
 "Développements limités res" lesson math https://limewire.com/d/XBVpL#THb3PFjssO
 "Espaces vectoriels res" lesson math https://limewire.com/d/EmhO9#Bu8lMc7lk5
-"concours tsi ge" grc GE https://apsim.ma/sujets-corriges-cnc/si-tsi-ge-page1
-
+"concours cnc tsi math" grc math https://rtc.ma/TSI-cnc-math.php?language=fr
+"concours cnc tsi phisic" grc phisic https://rtc.ma/TSI-cnc-pc.php?language=fr
+"concours cnc tsi s2i" grc s2i https://rtc.ma/TSI-cnc-si.php?language=fr
